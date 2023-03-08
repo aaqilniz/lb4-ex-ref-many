@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "Account": 7,
+    "Customer": 4
+  },
+  "models": {
+    "Account": {
+      "1": "{\"balance\":100,\"id\":1}",
+      "2": "{\"balance\":1100,\"id\":2}",
+      "3": "{\"balance\":3000,\"id\":3}",
+      "4": "{\"balance\":4000,\"id\":4}",
+      "5": "{\"balance\":5000,\"id\":5}",
+      "6": "{\"balance\":6000,\"id\":6}"
+    },
+    "Customer": {
+      "1": "{\"name\":\"Gul\",\"accountIds\":[4],\"id\":1}",
+      "2": "{\"name\":\"Saleem\",\"accountIds\":[2],\"id\":2}",
+      "3": "{\"name\":\"Saleem Shah\",\"accountIds\":[3],\"id\":3}"
+    }
+  }
+}
